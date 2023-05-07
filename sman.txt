@@ -1,0 +1,2 @@
+how to Make a pull request 
+  write : git pull origin 
